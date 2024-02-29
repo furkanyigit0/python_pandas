@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @furkanyigit0
-- 👀 I’m interested in ...Java
-- 🌱 I’m currently learning ...Java and Managment 
-- 💞️ I’m looking to collaborate on ...Java
+- 👀 I’m interested in ...Python,Java
+- 🌱 I’m currently learning ...Python and Artificial Intelligence
+- 💞️ I’m looking to collaborate on ...Python
 - 📫 How to reach me ...furkanyigit1467@gmail.com
 
 <!---
